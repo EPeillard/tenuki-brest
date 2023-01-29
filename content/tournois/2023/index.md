@@ -12,7 +12,7 @@ Dates : **3-4 juin 2023**
 Lieu : **Centre de Moulin Mer**, 32 Route du centre nautique, 29460 Logonna-Daoulas
 
 {{< load-photoswipe >}}
-{{< gallery dir="images/moulin-mer" />}}
+{{< gallery dir="/images/moulin-mer" />}}
 
 <iframe src="https://www.google.com/maps/embed/v1/place?key=AIzaSyAVerLPfkUDJqSTjO6bsSsbblzfXLwY9pw&q=Centre+Nautique+de+Moulin+Mer&zoom=10" width="600" height="450" frameborder="0" style="border:0"></iframe>
 
