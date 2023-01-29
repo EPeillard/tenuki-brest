@@ -1,0 +1,66 @@
+baseURL : 'http://hugo-quickstart-template.netlify.com'
+defaultContentLanguage: fr
+languageCode : 'fr'
+title : 'Tenuki'
+theme : ["ananke", "hugo-easy-gallery"]
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+  text_color : ""
+  author : ""
+  favicon : ""
+  site_logo : ""
+  description : "Site web du club de Go de Brest - Tenuki"
+  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class : "bg-black"
+  recent_posts_number : 3
+  ananke_socials:
+    - name : "facebook"
+      url : "https://www.facebook.com/TenukiClubdeGo"
+    - name : "discord"
+      url : "https://www.discord.gg/KxZfuXYU"
+    - name : "ffg"
+      url : "https://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=310"
+
+# Just for french
+languages:
+  fr:
+    name: Français
+    weight: 2
+    params:
+       read_more_copy: "En savoir plus"
+
+menu:
+    main:
+        - name : Tournoi 2023
+          url : '/tournois/2023'
+          weight : 10
+        - name: '|'
+          weight: 11
+        - name : "Le Club"
+          url : "/"
+          weight : 20
+        - name : "Nos rendez-vous"
+          url : "/rendez-vous"
+          weight : 30
+
+module:
+  mounts:
+    - source: content
+      target: content
+    - source: static
+      target: static
+    - source: layouts
+      target: layouts
+    - source: data
+      target: data
+    - source: assets
+      target: assets
+    - source: i18n
+      target: i18n
+    - source: archetypes
+      target: archetypes
