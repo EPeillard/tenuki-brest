@@ -2,7 +2,7 @@ baseURL : 'http://hugo-quickstart-template.netlify.com'
 defaultContentLanguage: fr
 languageCode : 'fr'
 title : 'Tenuki'
-theme : ["ananke", "hugo-easy-gallery", "netlify-basic"]
+theme : ["ananke", "hugo-easy-gallery"]
 
 markup:
   goldmark:
