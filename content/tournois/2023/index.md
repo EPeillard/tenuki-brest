@@ -77,18 +77,56 @@ Niveau d'inscription : obligatoirement celui de l'échelle FFG, ou bien en passa
 # Liste des pré-inscrits
 
 {{<tables "table table-bordered table-sm table-striped">}}
-|     | Nom           | Prénom         | Niveau | Club |
-| --- | ------------- | -------------- | ------ | ---- |
-| 1   | Gueguen       | Pierre-Antoine | 2K     | 29Br |
-| 2   | Gueguen       | Louis-Gabriel  | 3K     | 29Br |
-| 3   | Le Hir        | Matthieu       | 3K     | 00St |
-| 4   | Pestel-Ropars | Antoine        | 7K     | 29Br |
-| 5   | Peillard      | Etienne        | 8K     | 29Br |
-| 6   | Jullien       | Pierre         | 11K    | 29Br |
-| 7   | Desdames      | Nicolas        | 12K    | 29Br |
-| 8   | Marrec-Houpin | Gavin          | 15K    | 29Br |
-| 9   | Galliou       | Estelle        | 25K    | 29Br |
-| 10  | Gaschet       | Monique        | 26K    | 29Br |
+ |     | Nom           | Prénom         | Niveau | Club |
+ | --- | ------------- | -------------- | ------ | ---- |
+ | 1   | Le Hir        | Matthieu       | 3K     | 00St |
+ | 2   | Gueguen       | Pierre-Antoine | 2K     | 29Br |
+ | 3   | Gueguen       | Louis-Gabriel  | 3K     | 29Br |
+ | 4   | Gloaguen      | Romain         | 4K     | 29Br |
+ | 5   | Pestel-Ropars | Antoine        | 7K     | 29Br |
+ | 6   | Peillard      | Etienne        | 8K     | 29Br |
+ | 7   | Gouzin        | Alexis         | 9K     | 86Po |
+ | 8   | Jullien       | Pierre         | 11K    | 29Br |
+ | 9   | Desdames      | Nicolas        | 12K    | 29Br |
+ | 10  | Guern         | Pierre-Yves    | 13K    | 29Br |
+ | 11  | Marrec-Houpin | Gavin          | 15K    | 29Br |
+ | 12  | Gaschet       | Monique        | 26K    | 29Br |
+ | 13  | Galliou       | Estelle        | 25K    | 29Br |
+ | 14  |               |                |        |      |
+ | 15  |               |                |        |      |
+ | 16  |               |                |        |      |
+ | 17  |               |                |        |      |
+ | 18  |               |                |        |      |
+ | 19  |               |                |        |      |
+ | 20  |               |                |        |      |
+ | 21  |               |                |        |      |
+ | 22  |               |                |        |      |
+ | 23  |               |                |        |      |
+ | 24  |               |                |        |      |
+ | 25  |               |                |        |      |
+ | 26  |               |                |        |      |
+ | 27  |               |                |        |      |
+ | 28  |               |                |        |      |
+ | 29  |               |                |        |      |
+ | 30  |               |                |        |      |
+ | 31  |               |                |        |      |
+ | 32  |               |                |        |      |
+ | 33  |               |                |        |      |
+ | 34  |               |                |        |      |
+ | 35  |               |                |        |      |
+ | 36  |               |                |        |      |
+ | 37  |               |                |        |      |
+ | 38  |               |                |        |      |
+ | 39  |               |                |        |      |
+ | 40  |               |                |        |      |
+ | 41  |               |                |        |      |
+ | 42  |               |                |        |      |
+ | 43  |               |                |        |      |
+ | 44  |               |                |        |      |
+ | 45  |               |                |        |      |
+ | 46  |               |                |        |      |
+ | 47  |               |                |        |      |
+ | 48  |               |                |        |      |
 {{</tables>}}
 
-Dernière mise à jour : 21/01/2023
+Dernière mise à jour : 04/02/2023
