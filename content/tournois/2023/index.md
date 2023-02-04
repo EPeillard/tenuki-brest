@@ -80,7 +80,7 @@ Niveau d'inscription : obligatoirement celui de l'échelle FFG, ou bien en passa
 {{<tables "table table-bordered table-sm table-striped">}}
  |     | Nom           | Prénom         | Niveau | Club |
  | --- | ------------- | -------------- | ------ | ---- |
- | 1   | Le Hir        | Matthieu       | 3K     | 00St |
+ | 1   | Le Hir        | Matthieu       | 2D     | 00St |
  | 2   | Gueguen       | Pierre-Antoine | 2K     | 29Br |
  | 3   | Gueguen       | Louis-Gabriel  | 3K     | 29Br |
  | 4   | Gloaguen      | Romain         | 4K     | 29Br |
@@ -91,8 +91,8 @@ Niveau d'inscription : obligatoirement celui de l'échelle FFG, ou bien en passa
  | 9   | Desdames      | Nicolas        | 12K    | 29Br |
  | 10  | Guern         | Pierre-Yves    | 13K    | 29Br |
  | 11  | Marrec-Houpin | Gavin          | 15K    | 29Br |
- | 12  | Gaschet       | Monique        | 26K    | 29Br |
- | 13  | Galliou       | Estelle        | 25K    | 29Br |
+ | 12  | Galliou       | Estelle        | 25K    | 29Br |
+ | 13  | Gaschet       | Monique        | 26K    | 29Br |
  | 14  |               |                |        |      |
  | 15  |               |                |        |      |
  | 16  |               |                |        |      |
