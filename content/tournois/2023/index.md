@@ -31,7 +31,7 @@ Possibilité aussi de venir par le train (prévoir 30 minutes de trajet depuis l
 
 # Déroulement
 
-<span style="color:red">Il est possible d'arriver plus tôt, dès le vendredi soir, pour profiter du lieu pour le week-end (baignade, balade, rando kayak). [Contactez-nous si cela vous intéresse](mailto:brest.tenuki@hotmail.fr). </span>
+<span style="color:red">Il est possible d'arriver plus tôt, dès le vendredi soir, pour profiter du lieu pour le week-end (baignade, balade, rando kayak). Le tarif envisagé pour la nuit et le repas de vendredi est de 25€.  [Contactez-nous si cela vous intéresse](mailto:brest.tenuki@hotmail.fr). </span>
 
 ## Samedi 3 juin
 
@@ -60,6 +60,7 @@ Possibilité aussi de venir par le train (prévoir 30 minutes de trajet depuis l
 | 1 repas                                                              | 10 €                    |
 | Nuit + p'tit déj                                                     | 38 €                    |
 | **Inscription week-end <br> (tournoi, 1 nuit, 2 repas + p’tit déj)** | **66 € (réduit : 50€)** |
+| Option vendredi (repas + nuit)                                       | 25€                     |
 {{</tables>}}
  
 *Réduction* : jeunes, retraités, chômeurs. 
