@@ -80,7 +80,7 @@ Niveau d'inscription : obligatoirement celui de l'échelle FFG, ou bien en passa
 {{<tables "table table-bordered table-sm table-striped">}}
  |     | Nom           | Prénom         | Niveau | Club |
  | --- | ------------- | -------------- | ------ | ---- |
- | 1   | Le Hir        | Matthieu       | 2D     | 00St |
+ | 1   | Le Hir        | Matthieu       | 2D     | 29Br |
  | 2   | Gueguen       | Pierre-Antoine | 2K     | 29Br |
  | 3   | Gueguen       | Louis-Gabriel  | 3K     | 29Br |
  | 4   | Gloaguen      | Romain         | 4K     | 29Br |
