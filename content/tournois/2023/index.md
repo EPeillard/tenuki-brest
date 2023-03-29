@@ -92,16 +92,17 @@ N'hésitez pas à nous contacter pour toute question.
  | 1   | Le Hir        | Matthieu       | 2D     | 29Br |
  | 2   | Gueguen       | Pierre-Antoine | 2K     | 29Br |
  | 3   | Gueguen       | Louis-Gabriel  | 3K     | 29Br |
- | 4   | Gloaguen      | Romain         | 4K     | 29Br |
- | 5   | Pestel-Ropars | Antoine        | 7K     | 29Br |
- | 6   | Peillard      | Etienne        | 8K     | 29Br |
- | 7   | Gouzin        | Alexis         | 9K     | 86Po |
- | 8   | Jullien       | Pierre         | 11K    | 29Br |
- | 9   | Desdames      | Nicolas        | 12K    | 29Br |
- | 10  | Guern         | Pierre-Yves    | 13K    | 29Br |
- | 11  | Marrec-Houpin | Gavin          | 15K    | 29Br |
- | 12  | Galliou       | Estelle        | 25K    | 29Br |
- | 13  | Gaschet       | Monique        | 26K    | 29Br |
+ | 4   | Lhez          | Grégory        | 3K     | 29Br |
+ | 5   | Gloaguen      | Romain         | 4K     | 29Br |
+ | 6   | Lebouc        | Arnaud         | 6K     | 44Na |
+ | 7   | Pestel-Ropars | Antoine        | 7K     | 29Br |
+ | 8   | Peillard      | Etienne        | 8K     | 29Br |
+ | 9   | Gouzin        | Alexis         | 9K     | 86Po |
+ | 10  | Jullien       | Pierre         | 11K    | 29Br |
+ | 11  | Desdames      | Nicolas        | 12K    | 29Br |
+ | 12  | Guern         | Pierre-Yves    | 13K    | 29Br |
+ | 13  | Galliou       | Estelle        | 25K    | 29Br |
+ | 14  | Gaschet       | Monique        | 26K    | 29Br |
  | 14  |               |                |        |      |
  | 15  |               |                |        |      |
  | 16  |               |                |        |      |
@@ -139,4 +140,4 @@ N'hésitez pas à nous contacter pour toute question.
  | 48  |               |                |        |      |
 {{</tables>}}
 
-Dernière mise à jour : 04/02/2023
+Dernière mise à jour : 29/03/2023
