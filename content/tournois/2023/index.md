@@ -106,7 +106,6 @@ N'hésitez pas à nous contacter pour toute question.
  | 13  | Guern         | Pierre-Yves    | 13K    | 29Br |
  | 14  | Galliou       | Estelle        | 25K    | 29Br |
  | 15  | Gaschet       | Monique        | 26K    | 29Br |
- | 15  |               |                |        |      |
  | 16  |               |                |        |      |
  | 17  |               |                |        |      |
  | 18  |               |                |        |      |
