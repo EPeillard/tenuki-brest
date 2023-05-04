@@ -5,6 +5,8 @@ draft: false
 featured_image: "/images/moulin-mer/Baie du Camfrout.jpeg"
 ---
 
+![Logo Tenuki Brest](featured.png)
+
 # Présentation
 
 Dates : **3-4 juin 2023**
