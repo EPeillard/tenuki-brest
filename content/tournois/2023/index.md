@@ -92,27 +92,27 @@ N'hésitez pas à nous contacter pour toute question.
  |     | Nom           | Prénom         | Niveau | Club |
  | --- | ------------- | -------------- | ------ | ---- |
  | 1   | Le Hir        | Matthieu       | 2D     | 00St |
- | 2   | Gueguen       | Pierre-Antoine | 3K     | 29Br |
- | 3   | Gueguen       | Louis-Gabriel  | 2K     | 29Br |
- | 4   | Doussot       | Patrice        | 3K     | 21Di |
- | 5   | Cuello        | Kevin          | 3K     | 35Re |
- | 6   | Gloaguen      | Romain         | 4K     | 29Br |
- | 7   | Lebouc        | Arnaud         | 6K     | 44Na |
- | 8   | Pestel-Ropars | Antoine        | 7K     | 29Br |
- | 9   | Gauthier      | Julie          | 7K     | 21Di |
- | 10  | Peillard      | Etienne        | 8K     | 29Br |
- | 11  | Georget       | Laurent        | 8K     | 35Re |
- | 12  | Gouzin        | Alexis         | 10K    | 86Po |
- | 13  | Jullien       | Pierre         | 11K    | 29Br |
- | 14  | Desdames      | Nicolas        | 12K    | 29Br |
- | 15  | Guern         | Pierre-Yves    | 13K    | 29Br |
- | 16  | Brasselet     | Pascal         | 14K    | 35Re |
- | 17  | Guillaume     | Léo            | 15K    | 75CF |
- | 18  | Lhez          | Grégory        | 15K    | 29Br |
- | 19  | Galliou       | Estelle        | 22K    | 29Br |
- | 20  | Gaschet       | Monique        | 27K    | 29Br |
- | 21  |               |                |        |      |
- | 22  |               |                |        |      |
+ | 2   | Brazilier     | Manuel         | 1D     | 00St |
+ | 3   | Gueguen       | Pierre-Antoine | 3K     | 29Br |
+ | 4   | Gueguen       | Louis-Gabriel  | 2K     | 29Br |
+ | 5   | Doussot       | Patrice        | 3K     | 21Di |
+ | 6   | Cuello        | Kevin          | 3K     | 35Re |
+ | 7   | Gloaguen      | Romain         | 4K     | 29Br |
+ | 8   | Lebouc        | Arnaud         | 6K     | 44Na |
+ | 9   | Pestel-Ropars | Antoine        | 7K     | 29Br |
+ | 10  | Gauthier      | Julie          | 7K     | 21Di |
+ | 11  | Peillard      | Etienne        | 8K     | 29Br |
+ | 12  | Georget       | Laurent        | 8K     | 35Re |
+ | 13  | Gouzin        | Alexis         | 10K    | 86Po |
+ | 14  | Jullien       | Pierre         | 11K    | 29Br |
+ | 15  | Desdames      | Nicolas        | 12K    | 29Br |
+ | 16  | Gerold        | Pierre         | 12K    | 29Br |
+ | 17  | Guern         | Pierre-Yves    | 13K    | 29Br |
+ | 18  | Brasselet     | Pascal         | 14K    | 35Re |
+ | 19  | Guillaume     | Léo            | 15K    | 75CF |
+ | 20  | Lhez          | Grégory        | 15K    | 29Br |
+ | 21  | Galliou       | Estelle        | 22K    | 29Br |
+ | 22  | Gaschet       | Monique        | 27K    | 29Br |
  | 23  |               |                |        |      |
  | 24  |               |                |        |      |
  | 25  |               |                |        |      |
