@@ -91,26 +91,26 @@ N'hésitez pas à nous contacter pour toute question.
 {{<tables "table table-bordered table-sm table-striped">}}
  |     | Nom           | Prénom         | Niveau | Club |
  | --- | ------------- | -------------- | ------ | ---- |
- | 1   | Le Hir        | Matthieu       | 2D     | 29Br |
- | 2   | Gueguen       | Pierre-Antoine | 2K     | 29Br |
- | 3   | Gueguen       | Louis-Gabriel  | 3K     | 29Br |
- | 4   | Cuello        | Kevin          | 3K     | 35Re |
- | 5   | Lhez          | Grégory        | 3K     | 29Br |
+ | 1   | Le Hir        | Matthieu       | 2D     | 00St |
+ | 2   | Gueguen       | Pierre-Antoine | 3K     | 29Br |
+ | 3   | Gueguen       | Louis-Gabriel  | 2K     | 29Br |
+ | 4   | Doussot       | Patrice        | 3K     | 21Di |
+ | 5   | Cuello        | Kevin          | 3K     | 35Re |
  | 6   | Gloaguen      | Romain         | 4K     | 29Br |
  | 7   | Lebouc        | Arnaud         | 6K     | 44Na |
  | 8   | Pestel-Ropars | Antoine        | 7K     | 29Br |
- | 9   | Peillard      | Etienne        | 8K     | 29Br |
- | 10  | Gouzin        | Alexis         | 9K     | 86Po |
- | 11  | Jullien       | Pierre         | 11K    | 29Br |
- | 12  | Desdames      | Nicolas        | 12K    | 29Br |
- | 13  | Guern         | Pierre-Yves    | 13K    | 29Br |
- | 14  | Galliou       | Estelle        | 25K    | 29Br |
- | 15  | Gaschet       | Monique        | 26K    | 29Br |
- | 16  |               |                |        |      |
- | 17  |               |                |        |      |
- | 18  |               |                |        |      |
- | 19  |               |                |        |      |
- | 20  |               |                |        |      |
+ | 9   | Gauthier      | Julie          | 7K     | 21Di |
+ | 10  | Peillard      | Etienne        | 8K     | 29Br |
+ | 11  | Georget       | Laurent        | 8K     | 35Re |
+ | 12  | Gouzin        | Alexis         | 10K    | 86Po |
+ | 13  | Jullien       | Pierre         | 11K    | 29Br |
+ | 14  | Desdames      | Nicolas        | 12K    | 29Br |
+ | 15  | Guern         | Pierre-Yves    | 13K    | 29Br |
+ | 16  | Brasselet     | Pascal         | 14K    | 35Re |
+ | 17  | Guillaume     | Léo            | 15K    | 75CF |
+ | 18  | Lhez          | Grégory        | 15K    | 29Br |
+ | 19  | Galliou       | Estelle        | 22K    | 29Br |
+ | 20  | Gaschet       | Monique        | 27K    | 29Br |
  | 21  |               |                |        |      |
  | 22  |               |                |        |      |
  | 23  |               |                |        |      |
@@ -141,4 +141,4 @@ N'hésitez pas à nous contacter pour toute question.
  | 48  |               |                |        |      |
 {{</tables>}}
 
-Dernière mise à jour : 04/05/2023
+Dernière mise à jour : 15/05/2023
