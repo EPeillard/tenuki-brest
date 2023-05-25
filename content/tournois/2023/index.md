@@ -93,8 +93,8 @@ N'hésitez pas à nous contacter pour toute question.
  | --- | ------------- | -------------- | ------ | ---- |
  | 1   | Le Hir        | Matthieu       | 2D     | 29Br |
  | 2   | Brazilier     | Manuel         | 1D     | 00St |
- | 3   | Gueguen       | Pierre-Antoine | 2K     | 29Br |
- | 4   | Lhez          | Grégory        | 2K     | 29Br |
+ | 3   | Delasnerie    | Ronan          | 1D     | 35Re |
+ | 4   | Gueguen       | Pierre-Antoine | 2K     | 29Br |
  | 5   | Gueguen       | Louis-Gabriel  | 3K     | 29Br |
  | 6   | Doussot       | Patrice        | 3K     | 21Di |
  | 7   | Cuello        | Kevin          | 3K     | 35Re |
@@ -111,8 +111,8 @@ N'hésitez pas à nous contacter pour toute question.
  | 18  | Guern         | Pierre-Yves    | 13K    | 29Br |
  | 19  | Brasselet     | Pascal         | 14K    | 35Re |
  | 20  | Guillaume     | Léo            | 15K    | 75CF |
- | 21  | Galliou       | Estelle        | 22K    | 29Br |
- | 22  | Gaschet       | Monique        | 27K    | 29Br |
+ | 21  | Gaschet       | Monique        | 27K    | 29Br |
+ | 22  |               |                |        |      |
  | 23  |               |                |        |      |
  | 24  |               |                |        |      |
  | 25  |               |                |        |      |
@@ -141,4 +141,4 @@ N'hésitez pas à nous contacter pour toute question.
  | 48  |               |                |        |      |
 {{</tables>}}
 
-Dernière mise à jour : 15/05/2023
+Dernière mise à jour : 25/05/2023
