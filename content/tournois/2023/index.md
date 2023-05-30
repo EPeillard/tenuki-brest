@@ -109,11 +109,11 @@ N'hésitez pas à nous contacter pour toute question.
  | 16  | Desdames      | Nicolas        | 12K    | 29Br |
  | 17  | Gerold        | Pierre         | 12K    | 29Br |
  | 18  | Guern         | Pierre-Yves    | 13K    | 29Br |
- | 19  | Brasselet     | Pascal         | 14K    | 35Re |
- | 20  | Guillaume     | Léo            | 15K    | 75CF |
- | 21  | Gaschet       | Monique        | 27K    | 29Br |
- | 22  |               |                |        |      |
- | 23  |               |                |        |      |
+ | 19  | Fong          | Johan          | 13K    | 29Br |
+ | 20  | Brasselet     | Pascal         | 14K    | 35Re |
+ | 21  | Guillaume     | Léo            | 15K    | 75CF |
+ | 22  | Riettini      | Francois       | 20K    | 17Ro |
+ | 23  | Gaschet       | Monique        | 27K    | 29Br |
  | 24  |               |                |        |      |
  | 25  |               |                |        |      |
  | 26  |               |                |        |      |
@@ -141,4 +141,4 @@ N'hésitez pas à nous contacter pour toute question.
  | 48  |               |                |        |      |
 {{</tables>}}
 
-Dernière mise à jour : 25/05/2023
+Dernière mise à jour : 30/05/2023
