@@ -2,7 +2,7 @@
 title: "Tournoi de Brest 2024"
 draft: false
 
-featured_image: "/images/moulin-mer/Baie du Camfrout.jpeg"
+featured_image: "/images/banners/Banner 2024.png"
 ---
 
 ![Logo Tenuki Brest](featured.png)
@@ -84,7 +84,7 @@ La formule du vendredi est disponible en option.
 
 N'hésitez pas à nous contacter pour toute question. 
 
-<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/tenuki-club-de-go-de-brest/evenements/tournoi-de-go-de-brest/widget" style="width: 100%; height: 750px; border: none;"></iframe>
+<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/tenuki-club-de-go-de-brest/evenements/tournoi-de-go-de-brest-2024/widget" style="width: 100%; height: 750px; border: none;"></iframe>
 
 # Liste des pré-inscrits
 
