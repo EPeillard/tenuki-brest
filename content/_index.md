@@ -14,7 +14,7 @@ image:
 
 Bienvenue sur le site de Tenuki, le club de Go de Brest. 
 
-[Les inscriptions pour le tournoi 2023 sont ouvertes !](/tournois/2023/)
+[Les inscriptions pour le tournoi 2024 sont ouvertes !](/tournois/2024/)
 
 Venez nous rejoindre autour du goban à l'un de nos [rendez-vous hebdo](/rendez-vous/).
 <br><br>
