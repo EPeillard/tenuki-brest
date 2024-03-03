@@ -84,7 +84,7 @@ La formule du vendredi est disponible en option.
 
 N'hésitez pas à nous contacter pour toute question. 
 
-<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/tenuki-club-de-go-de-brest/evenements/tournoi-de-go-de-brest-2024/widget" style="width: 100%; height: 750px; border: none;"></iframe>
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/tenuki-club-de-go-de-brest/evenements/tournoi-de-go-de-brest-2024/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
 
 # Liste des pré-inscrits
 
