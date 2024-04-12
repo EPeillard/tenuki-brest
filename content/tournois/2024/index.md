@@ -90,7 +90,7 @@ N'hésitez pas à nous contacter pour toute question.
  |     | Nom           | Prénom         | Niveau | Club  |
  | --- | ------------- | -------------- | ------ | ----- |
  | 1   | le_Hir        | Matthieu       | 2D     | 29Br  |
- | 2   | A             | Julien         | 1K     | Hem   |
+ | 2   | A.            | Julien         | 1K     | *     |
  | 3   | Gueguen       | Pierre-Antoine | 2K     | 29Br  |
  | 4   | Lhez          | Gregory        | 2K     | 29Br  |
  | 5   | Guéguen       | Louis-Gabriel  | 3K     | 29Br  |
