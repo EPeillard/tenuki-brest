@@ -70,17 +70,15 @@ Possibilité aussi de venir par le train (prévoir 30 minutes de trajet depuis l
 
 # Inscription
 
-N'hésitez pas à contacter le club, en précisant le jour d'arrivée et quelle formule vous souhaitez (repas/logement).
+Pour vous inscrire, contactez le club, en précisant le jour d'arrivée et quelle formule vous souhaitez (repas/logement).
 
-Niveau d'inscription : obligatoirement celui de l'échelle FFG, ou bien en passant par la commission de ré-évaluation FFG, 15 jours minimum avant le tournoi.
+Niveau d'inscription : obligatoirement celui de l'échelle FFG, ou bien en passant par la commission de ré-évaluation FFG, 15 jours minimum avant le tournoi. Si vous n'avez pas de licence à jour, elle sera faite sur place avant le tournoi. 
 
 - Mail : brest.tenuki@hotmail.fr
 - Tél : 06.81.71.97.29
 
-## Inscription en ligne
-
-Vous pouvez vous inscrire directement en ligne avec le formulaire ci-après. 
-La formule du vendredi est disponible en option. 
+Vous pouvez également vous inscrire directement en ligne avec le formulaire ci-après. 
+(La formule du vendredi est disponible dans les options.)
 
 N'hésitez pas à nous contacter pour toute question. 
 
@@ -91,21 +89,21 @@ N'hésitez pas à nous contacter pour toute question.
 {{<tables "table table-bordered table-sm table-striped">}}
  |     | Nom           | Prénom         | Niveau | Club  |
  | --- | ------------- | -------------- | ------ | ----- |
- | 1   | Le Hir        | Matthieu       | 2D     | 29Br  |
- | 2   | Gueguen       | Pierre-Antoine | 2K     | 29Br  |
- | 3   | Lhez          | Gregory        | 2K     | 29Br  |
- | 4   | Guéguen       | Louis-Gabriel  | 3K     | 29Br  |
- | 5   | Eav           | Dominique      | 3K     | 56Lo  |
- | 6   | Batissou      | Samuel         | 7K     | COP75 |
+ | 1   | le_Hir        | Matthieu       | 2D     | 29Br  |
+ | 2   | A             | Julien         | 1K     | Hem   |
+ | 3   | Gueguen       | Pierre-Antoine | 2K     | 29Br  |
+ | 4   | Lhez          | Gregory        | 2K     | 29Br  |
+ | 5   | Guéguen       | Louis-Gabriel  | 3K     | 29Br  |
+ | 6   | Eav           | Dominique      | 3K     | 56Lo  |
  | 7   | Pestel-Ropars | Antoine        | 7K     | 29Br  |
- | 8   | Gauthier      | Julie          | 7K     | 21Di  |
- | 9   | Peillard      | Etienne        | 8K     | 29Br  |
- | 10  | Jullien       | Pierre         | 11K    | 29Br  |
- | 11  | Desdames      | Nicolas        | 12K    | 29Br  |
- | 12  | Guern         | Pierre-Yves    | 13K    | 29Br  |
- | 13  | Marrec-Houpin | Gavin          | 15K    | 29Br  |
- | 14  | Gaschet       | Monique        | 27K    | 29Br  |
- | 15  |               |                |        |       |
+ | 8   | Batissou      | Samuel         | 7K     | 75COP |
+ | 9   | Gauthier      | Julie          | 7K     | 21Di  |
+ | 10  | Peillard      | Etienne        | 8K     | 29Br  |
+ | 11  | Jullien       | Pierre         | 11K    | 29Br  |
+ | 12  | Desdames      | Nicolas        | 12K    | 29Br  |
+ | 13  | Guern         | Pierre-Yves    | 13K    | 29Br  |
+ | 14  | Marrec-Houpin | Gavin          | 15K    | 29Br  |
+ | 15  | Gaschet       | Monique        | 27K    | 29Br  |
  | 16  |               |                |        |       |
  | 17  |               |                |        |       |
  | 18  |               |                |        |       |
@@ -141,4 +139,4 @@ N'hésitez pas à nous contacter pour toute question.
  | 48  |               |                |        |       |
 {{</tables>}}
 
-Dernière mise à jour : 15/04/2024
+Dernière mise à jour : 12/04/2024
