@@ -89,56 +89,56 @@ N'hésitez pas à nous contacter pour toute question.
 # Liste des pré-inscrits
 
 {{<tables "table table-bordered table-sm table-striped">}}
- |     | Nom           | Prénom         | Niveau | Club |
- | --- | ------------- | -------------- | ------ | ---- |
- | 1   | Le Hir        | Matthieu       | 2D     | 29Br |
- | 2   | Gueguen       | Pierre-Antoine | 2K     | 29Br |
- | 3   | Lhez          | Gregory        | 2K     | 29Br |
- | 4   | Guéguen       | Louis-Gabriel  | 3K     | 29Br |
- | 5   | Pestel-Ropars | Antoine        | 7K     | 29Br |
- | 6   | Gauthier      | Julie          | 7K     | 21Di |
- | 7   | Peillard      | Etienne        | 8K     | 29Br |
- | 8   | Jullien       | Pierre         | 11K    | 29Br |
- | 9   | Desdames      | Nicolas        | 12K    | 29Br |
- | 10  | Guern         | Pierre-Yves    | 13K    | 29Br |
- | 11  | Marrec-Houpin | Gavin          | 15K    | 29Br |
- | 12  | Gaschet       | Monique        | 27K    | 29Br |
- | 13  |               |                |        |      |
- | 14  |               |                |        |      |
- | 15  |               |                |        |      |
- | 16  |               |                |        |      |
- | 17  |               |                |        |      |
- | 18  |               |                |        |      |
- | 19  |               |                |        |      |
- | 20  |               |                |        |      |
- | 21  |               |                |        |      |
- | 22  |               |                |        |      |
- | 23  |               |                |        |      |
- | 24  |               |                |        |      |
- | 25  |               |                |        |      |
- | 26  |               |                |        |      |
- | 27  |               |                |        |      |
- | 28  |               |                |        |      |
- | 29  |               |                |        |      |
- | 30  |               |                |        |      |
- | 31  |               |                |        |      |
- | 32  |               |                |        |      |
- | 33  |               |                |        |      |
- | 34  |               |                |        |      |
- | 35  |               |                |        |      |
- | 36  |               |                |        |      |
- | 37  |               |                |        |      |
- | 38  |               |                |        |      |
- | 39  |               |                |        |      |
- | 40  |               |                |        |      |
- | 41  |               |                |        |      |
- | 42  |               |                |        |      |
- | 43  |               |                |        |      |
- | 44  |               |                |        |      |
- | 45  |               |                |        |      |
- | 46  |               |                |        |      |
- | 47  |               |                |        |      |
- | 48  |               |                |        |      |
+ |     | Nom           | Prénom         | Niveau | Club  |
+ | --- | ------------- | -------------- | ------ | ----- |
+ | 1   | Le Hir        | Matthieu       | 2D     | 29Br  |
+ | 2   | Gueguen       | Pierre-Antoine | 2K     | 29Br  |
+ | 3   | Lhez          | Gregory        | 2K     | 29Br  |
+ | 4   | Guéguen       | Louis-Gabriel  | 3K     | 29Br  |
+ | 5   | Eav           | Dominique      | 3K     | 56Lo  |
+ | 6   | Batissou      | Samuel         | 7K     | COP75 |
+ | 7   | Pestel-Ropars | Antoine        | 7K     | 29Br  |
+ | 8   | Gauthier      | Julie          | 7K     | 21Di  |
+ | 9   | Peillard      | Etienne        | 8K     | 29Br  |
+ | 10  | Jullien       | Pierre         | 11K    | 29Br  |
+ | 11  | Desdames      | Nicolas        | 12K    | 29Br  |
+ | 12  | Guern         | Pierre-Yves    | 13K    | 29Br  |
+ | 13  | Marrec-Houpin | Gavin          | 15K    | 29Br  |
+ | 14  | Gaschet       | Monique        | 27K    | 29Br  |
+ | 15  |               |                |        |       |
+ | 16  |               |                |        |       |
+ | 17  |               |                |        |       |
+ | 18  |               |                |        |       |
+ | 19  |               |                |        |       |
+ | 20  |               |                |        |       |
+ | 21  |               |                |        |       |
+ | 22  |               |                |        |       |
+ | 23  |               |                |        |       |
+ | 24  |               |                |        |       |
+ | 25  |               |                |        |       |
+ | 26  |               |                |        |       |
+ | 27  |               |                |        |       |
+ | 28  |               |                |        |       |
+ | 29  |               |                |        |       |
+ | 30  |               |                |        |       |
+ | 31  |               |                |        |       |
+ | 32  |               |                |        |       |
+ | 33  |               |                |        |       |
+ | 34  |               |                |        |       |
+ | 35  |               |                |        |       |
+ | 36  |               |                |        |       |
+ | 37  |               |                |        |       |
+ | 38  |               |                |        |       |
+ | 39  |               |                |        |       |
+ | 40  |               |                |        |       |
+ | 41  |               |                |        |       |
+ | 42  |               |                |        |       |
+ | 43  |               |                |        |       |
+ | 44  |               |                |        |       |
+ | 45  |               |                |        |       |
+ | 46  |               |                |        |       |
+ | 47  |               |                |        |       |
+ | 48  |               |                |        |       |
 {{</tables>}}
 
-Dernière mise à jour : 03/03/2024
+Dernière mise à jour : 15/04/2024
