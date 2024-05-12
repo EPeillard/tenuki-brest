@@ -89,26 +89,27 @@ N'hésitez pas à nous contacter pour toute question.
 {{<tables "table table-bordered table-sm table-striped">}}
 |     | Nom             | Prénom         | Niveau | Club  |
 | --- | --------------- | -------------- | ------ | ----- |
-| 1   | le_Hir          | Matthieu       | 2D     | 29Br  |
-| 2   | A.              | Julien         | 1K     | -     |
+| 1   | Le Hir          | Matthieu       | 2D     | 29Br  |
+| 2   | Brazilier       | Manuel         | 1D     | 00St  |
 | 3   | Gueguen         | Pierre-Antoine | 1K     | 29Br  |
-| 5   | Guéguen         | Louis-Gabriel  | 3K     | 29Br  |
+| 5   | A               | Julien         | 1K     | *     |
 | 6   | Eav             | Dominique      | 3K     | 56Lo  |
-| 7   | Doussot         | Patrice        | 4K     | 21Di  |
-| 8   | Pestel-Ropars   | Antoine        | 7K     | 29Br  |
-| 9   | Batissou        | Samuel         | 7K     | 75COP |
-| 10  | Pean            | Louri          | 7K     | 56Lo  |
-| 11  | Gauthier        | Julie          | 7K     | 21Di  |
-| 12  | Peillard        | Etienne        | 8K     | 29Br  |
-| 13  | Barbeyron       | Cédric         | 10K    | 29Br  |
-| 14  | Jullien         | Pierre         | 11K    | 29Br  |
-| 15  | Menthéour       | Camille        | 11K    | 29Co  |
-| 16  | Desdames        | Nicolas        | 12K    | 29Br  |
-| 17  | Guern           | Pierre-Yves    | 13K    | 29Br  |
-| 18  | Marrec-Houpin   | Gavin          | 15K    | 29Br  |
-| 19  | Millour-Meffroy | Zeno           | 20K    | 29Br  |
-| 20  | Gaschet         | Monique        | 27K    | 29Br  |
-| 21  |                 |                |        |       |
+| 7   | Guéguen         | Louis-Gabriel  | 3K     | 29Br  |
+| 8   | Cuello          | Kévin          | 3K     | 35Re  |
+| 9   | Doussot         | Patrice        | 4K     | 21Di  |
+| 10  | Pestel-Ropars   | Antoine        | 7K     | 29Br  |
+| 11  | Pean            | Louri          | 7K     | 56Lo  |
+| 12  | Batissou        | Samuel         | 7K     | 75COP |
+| 13  | Peillard        | Etienne        | 7K     | 29Br  |
+| 14  | Gauthier        | Julie          | 8K     | 21Di  |
+| 15  | Barbeyron       | Cédric         | 10K    | 29Br  |
+| 16  | Menthéour       | Camille        | 11K    | 29Co  |
+| 17  | Jullien         | Pierre         | 11K    | 29Br  |
+| 18  | Guern           | Pierre-Yves    | 12K    | 29Br  |
+| 19  | Desdames        | Nicolas        | 13K    | 29Br  |
+| 20  | Marrec-Houpin   | Gavin          | 15K    | 29Br  |
+| 21  | Millour-Meffroy | Zeno           | 16K    | 29Br  |
+| 22  | Gaschet         | Monique        | 29K    | 29Br  |
 | 22  |                 |                |        |       |
 | 23  |                 |                |        |       |
 | 24  |                 |                |        |       |
@@ -138,4 +139,4 @@ N'hésitez pas à nous contacter pour toute question.
 | 48  |                 |                |        |       |
 {{</tables>}}
 
-Dernière mise à jour : 20/04/2024
+Dernière mise à jour : 12/05/2024
