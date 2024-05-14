@@ -22,7 +22,7 @@ Lieu : **Centre de Moulin Mer**, 32 Route du centre nautique, 29460 Logonna-Daou
 
 Possibilité aussi de venir par le train (prévoir 30 minutes de trajet depuis la gare de Brest), mais prévenez suffisamment longtemps à l’avance, pour qu’on organise les navettes.
 
-- Nb de joueurs : limité à 49 joueurs !
+- Nb de joueurs : limité à 49 joueurs
 - Nb de rondes : 5 (avec possibilité d'en faire moins si vous le souhaitez)
 - Système : McMahon suissé, avec 2 ou 3 catégories, selon le nombre de joueurs
 - Pendule : 1h par joueur
@@ -77,12 +77,12 @@ Niveau d'inscription : obligatoirement celui de l'échelle FFG, ou bien en passa
 - Mail : brest.tenuki@hotmail.fr
 - Tél : 06.81.71.97.29
 
-Vous pouvez également vous inscrire directement en ligne avec le formulaire ci-après. 
+Vous pouvez également vous inscrire et régler directement en ligne en cliquant sur le bouton juste là. 
 (La formule du vendredi est disponible dans les options.)
 
-N'hésitez pas à nous contacter pour toute question. 
-
 <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/tenuki-club-de-go-de-brest/evenements/tournoi-de-go-de-brest-2024/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
+
+N'hésitez pas à nous contacter pour toute question. 
 
 # Infos logement
 
