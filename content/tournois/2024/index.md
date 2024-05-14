@@ -33,7 +33,7 @@ Possibilité aussi de venir par le train (prévoir 30 minutes de trajet depuis l
 
 # Déroulement
 
-<span style="color:red">Il est possible d'arriver plus tôt, dès le vendredi soir, pour profiter du lieu pour le week-end (baignade, balade, rando kayak). Le tarif pour la nuit et le repas de vendredi est de 30€.  [Contactez-nous si cela vous intéresse](mailto:brest.tenuki@hotmail.fr). </span>
+Il est possible d'arriver dès le vendredi soir, pour profiter du lieu pour le week-end (baignade, balade, rando kayak). 
 
 ## Samedi 15 juin
 
@@ -84,6 +84,12 @@ N'hésitez pas à nous contacter pour toute question.
 
 <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/tenuki-club-de-go-de-brest/evenements/tournoi-de-go-de-brest-2024/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
 
+# Infos logement
+
+- Pour arriver en voiture, indiquer "Parking Centre Moulin Mer" sur votre GPS, ou "32 Rte du Centre Nautique à Logonna-Daoulas". Sinon vous allez vous retrouver en bas du Centre Nautique, et c'est pas là. Le port de Moulin Mer est en face, et c'est pas là non plus. 
+- Le centre propose des chambres de 4 personnes. 
+- Les oreillers et draps sont fournis. Il faut juste prévoir une serviette de toilette.
+
 # Liste des pré-inscrits
 
 {{<tables "table table-bordered table-sm table-striped">}}
@@ -92,24 +98,24 @@ N'hésitez pas à nous contacter pour toute question.
 | 1   | Le Hir          | Matthieu       | 2D     | 29Br  |
 | 2   | Brazilier       | Manuel         | 1D     | 00St  |
 | 3   | Gueguen         | Pierre-Antoine | 1K     | 29Br  |
-| 5   | A               | Julien         | 1K     | *     |
-| 6   | Eav             | Dominique      | 3K     | 56Lo  |
-| 7   | Guéguen         | Louis-Gabriel  | 3K     | 29Br  |
-| 8   | Cuello          | Kévin          | 3K     | 35Re  |
-| 9   | Doussot         | Patrice        | 4K     | 21Di  |
-| 10  | Pestel-Ropars   | Antoine        | 7K     | 29Br  |
-| 11  | Pean            | Louri          | 7K     | 56Lo  |
-| 12  | Batissou        | Samuel         | 7K     | 75COP |
-| 13  | Peillard        | Etienne        | 7K     | 29Br  |
-| 14  | Gauthier        | Julie          | 8K     | 21Di  |
-| 15  | Barbeyron       | Cédric         | 10K    | 29Br  |
-| 16  | Menthéour       | Camille        | 11K    | 29Co  |
-| 17  | Jullien         | Pierre         | 11K    | 29Br  |
-| 18  | Guern           | Pierre-Yves    | 12K    | 29Br  |
-| 19  | Desdames        | Nicolas        | 13K    | 29Br  |
-| 20  | Marrec-Houpin   | Gavin          | 15K    | 29Br  |
-| 21  | Millour-Meffroy | Zeno           | 16K    | 29Br  |
-| 22  | Gaschet         | Monique        | 29K    | 29Br  |
+| 4   | A               | Julien         | 1K     | *     |
+| 5   | Eav             | Dominique      | 3K     | 56Lo  |
+| 6   | Guéguen         | Louis-Gabriel  | 3K     | 29Br  |
+| 7   | Cuello          | Kévin          | 3K     | 35Re  |
+| 8   | Doussot         | Patrice        | 4K     | 21Di  |
+| 9   | Pestel-Ropars   | Antoine        | 7K     | 29Br  |
+| 10  | Pean            | Louri          | 7K     | 56Lo  |
+| 11  | Batissou        | Samuel         | 7K     | 75COP |
+| 12  | Peillard        | Etienne        | 7K     | 29Br  |
+| 13  | Gauthier        | Julie          | 8K     | 21Di  |
+| 14  | Barbeyron       | Cédric         | 10K    | 29Br  |
+| 15  | Menthéour       | Camille        | 11K    | 29Co  |
+| 16  | Jullien         | Pierre         | 11K    | 29Br  |
+| 17  | Guern           | Pierre-Yves    | 12K    | 29Br  |
+| 18  | Desdames        | Nicolas        | 13K    | 29Br  |
+| 19  | Marrec-Houpin   | Gavin          | 15K    | 29Br  |
+| 20  | Millour-Meffroy | Zeno           | 16K    | 29Br  |
+| 21  | Gaschet         | Monique        | 29K    | 29Br  |
 | 22  |                 |                |        |       |
 | 23  |                 |                |        |       |
 | 24  |                 |                |        |       |
@@ -139,4 +145,4 @@ N'hésitez pas à nous contacter pour toute question.
 | 48  |                 |                |        |       |
 {{</tables>}}
 
-Dernière mise à jour : 12/05/2024
+Dernière mise à jour : 14/05/2024
