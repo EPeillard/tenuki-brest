@@ -56,13 +56,21 @@ Il est possible d'arriver dès le vendredi soir, pour profiter du lieu pour le w
 # Tarifs
 
 {{<tables "table table-bordered table-sm">}}
-|                                                                      | Normal   | Réduit   | Accompagnant |
-| -------------------------------------------------------------------- | -------- | -------- | ------------ |
-| Inscription tournoi                                                  | 30 €     | 5 €      | -            |
-| 1 repas                                                              | 11 €     | 11 €     | 11€          |
-| Nuit + p'tit déj                                                     | 38 €     | 38 €     | 38 €         |
-| **Inscription week-end <br> (tournoi, 1 nuit, 2 repas + p’tit déj)** | **72 €** | **52 €** | **48 €**     |
-| Option vendredi (repas + nuit + p'tit dej)                           | 28€      | 28€      | 28€          |
+|                                                                         | Normal   | Réduit   | Acc.     |
+| ----------------------------------------------------------------------- | -------- | -------- | -------- |
+| **Formule samedi-dimanche <br> (tournoi, 1 nuit, 2 repas + p’tit déj)** | **72 €** | **52 €** | **48 €** |
+{{</tables>}}
+
+*Option vendredi (repas + nuit + p'tit dej) :*  **28€**
+
+
+### A la carte
+{{<tables "table table-bordered table-sm">}}
+|                         | Normal | Réduit | Accompagnant |
+| ----------------------- | ------ | ------ | ------------ |
+| Inscription tournoi     | 30 €   | 5 €    | -            |
+| 1 repas                 | 11 €   | 11 €   | 11€          |
+| Nuit samedi + p'tit déj | 38 €   | 38 €   | 38 €         |
 {{</tables>}}
  
 *Réduction* : jeunes, retraités, chômeurs. 
