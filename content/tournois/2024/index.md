@@ -99,28 +99,28 @@ N'hésitez pas à nous contacter pour toute question.
 | 2   | Brazilier       | Manuel         | 1D     | 00St  |
 | 3   | Gueguen         | Pierre-Antoine | 1K     | 29Br  |
 | 4   | A               | Julien         | 1K     | *     |
-| 5   | Eav             | Dominique      | 3K     | 56Lo  |
-| 6   | Guéguen         | Louis-Gabriel  | 3K     | 29Br  |
-| 7   | Cuello          | Kévin          | 3K     | 35Re  |
-| 8   | Doussot         | Patrice        | 4K     | 21Di  |
-| 9   | Pestel-Ropars   | Antoine        | 7K     | 29Br  |
-| 10  | Pean            | Louri          | 7K     | 56Lo  |
-| 11  | Batissou        | Samuel         | 7K     | 75COP |
-| 12  | Peillard        | Etienne        | 7K     | 29Br  |
-| 13  | Gauthier        | Julie          | 8K     | 21Di  |
-| 14  | Barbeyron       | Cédric         | 10K    | 29Br  |
-| 15  | Menthéour       | Camille        | 11K    | 29Co  |
-| 16  | Jullien         | Pierre         | 11K    | 29Br  |
-| 17  | Guern           | Pierre-Yves    | 12K    | 29Br  |
-| 18  | Desdames        | Nicolas        | 13K    | 29Br  |
-| 19  | Marrec-Houpin   | Gavin          | 15K    | 29Br  |
-| 20  | Millour-Meffroy | Zeno           | 16K    | 29Br  |
-| 21  | Gaschet         | Monique        | 29K    | 29Br  |
-| 22  |                 |                |        |       |
-| 23  |                 |                |        |       |
-| 24  |                 |                |        |       |
-| 25  |                 |                |        |       |
-| 26  |                 |                |        |       |
+| 5   | Boé             | Alain          | 1K     | 35Re  |
+| 6   | Eav             | Dominique      | 3K     | 56Lo  |
+| 7   | Guéguen         | Louis-Gabriel  | 3K     | 29Br  |
+| 8   | Cuello          | Kévin          | 3K     | 35Re  |
+| 9   | Doussot         | Patrice        | 4K     | 21Di  |
+| 10  | Pestel-Ropars   | Antoine        | 7K     | 29Br  |
+| 11  | Pean            | Louri          | 7K     | 56Lo  |
+| 12  | Batissou        | Samuel         | 7K     | 75COP |
+| 13  | Georget         | Laurent        | 8K     | 35Re  |
+| 14  | Gauthier        | Julie          | 8K     | 21Di  |
+| 15  | Schneider       | Hugo           | 8K     | 56Lo  |
+| 16  | Peillard        | Etienne        | 8K     | 29Br  |
+| 17  | Fong            | Johan          | 10K    | 35Re  |
+| 18  | Barbeyron       | Cédric         | 10K    | 29Br  |
+| 19  | Rolland         | Simon          | 10K    | 29Br  |
+| 20  | Menthéour       | Camille        | 11K    | 29Co  |
+| 21  | Jullien         | Pierre         | 11K    | 29Br  |
+| 22  | Guern           | Pierre-Yves    | 12K    | 29Br  |
+| 23  | Desdames        | Nicolas        | 13K    | 29Br  |
+| 24  | Marrec-Houpin   | Gavin          | 15K    | 29Br  |
+| 25  | Millour-Meffroy | Zeno           | 16K    | 29Br  |
+| 26  | Gaschet         | Monique        | 21K    | 29Br  |
 | 27  |                 |                |        |       |
 | 28  |                 |                |        |       |
 | 29  |                 |                |        |       |
@@ -145,4 +145,4 @@ N'hésitez pas à nous contacter pour toute question.
 | 48  |                 |                |        |       |
 {{</tables>}}
 
-Dernière mise à jour : 14/05/2024
+Dernière mise à jour : 20/05/2024
