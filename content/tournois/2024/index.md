@@ -56,13 +56,13 @@ Il est possible d'arriver dès le vendredi soir, pour profiter du lieu pour le w
 # Tarifs
 
 {{<tables "table table-bordered table-sm">}}
-|                                                                      |                         |
-| -------------------------------------------------------------------- | ----------------------- |
-| Inscription                                                          | 30 € (réduit : 5 €)     |
-| 1 repas                                                              | 11 €                    |
-| Nuit + p'tit déj                                                     | 38 €                    |
-| **Inscription week-end <br> (tournoi, 1 nuit, 2 repas + p’tit déj)** | **72 € (réduit : 52€)** |
-| Option vendredi (repas + nuit + p'tit dej)                           | 28€                     |
+|                                                                      | Normal   | Réduit   | Accompagnant |
+| -------------------------------------------------------------------- | -------- | -------- | ------------ |
+| Inscription tournoi                                                  | 30 €     | 5 €      | -            |
+| 1 repas                                                              | 11 €     | 11 €     | 11€          |
+| Nuit + p'tit déj                                                     | 38 €     | 38 €     | 38 €         |
+| **Inscription week-end <br> (tournoi, 1 nuit, 2 repas + p’tit déj)** | **72 €** | **52 €** | **48 €**     |
+| Option vendredi (repas + nuit + p'tit dej)                           | 28€      | 28€      | 28€          |
 {{</tables>}}
  
 *Réduction* : jeunes, retraités, chômeurs. 
@@ -118,7 +118,7 @@ N'hésitez pas à nous contacter pour toute question.
 | 21  | Jullien         | Pierre         | 11K    | 29Br  |
 | 22  | Guern           | Pierre-Yves    | 12K    | 29Br  |
 | 23  | Desdames        | Nicolas        | 13K    | 29Br  |
-| 24  | Marrec-Houpin   | Gavin          | 15K    | 29Br  |
+| 24  | Gloaguen        | Romain         | 4K     | 29Br  |
 | 25  | Millour-Meffroy | Zeno           | 16K    | 29Br  |
 | 26  | Gaschet         | Monique        | 21K    | 29Br  |
 | 27  |                 |                |        |       |
