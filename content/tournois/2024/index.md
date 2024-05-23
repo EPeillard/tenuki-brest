@@ -112,24 +112,24 @@ N'hésitez pas à nous contacter pour toute question.
 | 7   | Guéguen         | Louis-Gabriel  | 3K     | 29Br  |
 | 8   | Cuello          | Kévin          | 3K     | 35Re  |
 | 9   | Doussot         | Patrice        | 4K     | 21Di  |
-| 10  | Pestel-Ropars   | Antoine        | 7K     | 29Br  |
-| 11  | Pean            | Louri          | 7K     | 56Lo  |
-| 12  | Batissou        | Samuel         | 7K     | 75COP |
-| 13  | Georget         | Laurent        | 8K     | 35Re  |
-| 14  | Gauthier        | Julie          | 8K     | 21Di  |
-| 15  | Schneider       | Hugo           | 8K     | 56Lo  |
-| 16  | Peillard        | Etienne        | 8K     | 29Br  |
-| 17  | Fong            | Johan          | 10K    | 35Re  |
-| 18  | Barbeyron       | Cédric         | 10K    | 29Br  |
-| 19  | Rolland         | Simon          | 10K    | 29Br  |
-| 20  | Menthéour       | Camille        | 11K    | 29Co  |
-| 21  | Jullien         | Pierre         | 11K    | 29Br  |
-| 22  | Guern           | Pierre-Yves    | 12K    | 29Br  |
-| 23  | Desdames        | Nicolas        | 13K    | 29Br  |
-| 24  | Gloaguen        | Romain         | 4K     | 29Br  |
-| 25  | Millour-Meffroy | Zeno           | 16K    | 29Br  |
-| 26  | Gaschet         | Monique        | 21K    | 29Br  |
-| 27  |                 |                |        |       |
+| 10  | Gloaguen        | Romain         | 4K     | 29Br  |
+| 11  | Allais          | Esteban        | 5K     | 35Re  |
+| 12  | Pestel-Ropars   | Antoine        | 7K     | 29Br  |
+| 13  | Pean            | Louri          | 7K     | 56Lo  |
+| 14  | Batissou        | Samuel         | 7K     | 75COP |
+| 15  | Georget         | Laurent        | 8K     | 35Re  |
+| 16  | Gauthier        | Julie          | 8K     | 21Di  |
+| 17  | Schneider       | Hugo           | 8K     | 56Lo  |
+| 18  | Peillard        | Etienne        | 8K     | 29Br  |
+| 19  | Fong            | Johan          | 10K    | 35Re  |
+| 20  | Barbeyron       | Cédric         | 10K    | 29Br  |
+| 21  | Rolland         | Simon          | 10K    | 29Br  |
+| 22  | Menthéour       | Camille        | 11K    | 29Co  |
+| 23  | Jullien         | Pierre         | 11K    | 29Br  |
+| 24  | Guern           | Pierre-Yves    | 12K    | 29Br  |
+| 25  | Desdames        | Nicolas        | 13K    | 29Br  |
+| 26  | Millour-Meffroy | Zeno           | 16K    | 29Br  |
+| 27  | Gaschet         | Monique        | 21K    | 29Br  |
 | 28  |                 |                |        |       |
 | 29  |                 |                |        |       |
 | 30  |                 |                |        |       |
@@ -153,4 +153,4 @@ N'hésitez pas à nous contacter pour toute question.
 | 48  |                 |                |        |       |
 {{</tables>}}
 
-Dernière mise à jour : 20/05/2024
+Dernière mise à jour : 23/05/2024
