@@ -109,31 +109,31 @@ N'hésitez pas à nous contacter pour toute question.
 | 4   | Menard          | Benoit         | 1K     | 35Re  |
 | 5   | A               | Julien         | 1K     | *     |
 | 6   | Boé             | Alain          | 1K     | 35Re  |
-| 7   | Eav             | Dominique      | 3K     | 56Lo  |
-| 8   | Guéguen         | Louis-Gabriel  | 3K     | 29Br  |
-| 9   | Cuello          | Kévin          | 3K     | 35Re  |
-| 10  | Doussot         | Patrice        | 4K     | 21Di  |
-| 11  | Gloaguen        | Romain         | 4K     | 29Br  |
-| 12  | Allais          | Esteban        | 5K     | 35Re  |
-| 13  | Pestel-Ropars   | Antoine        | 7K     | 29Br  |
-| 14  | Pean            | Louri          | 7K     | 56Lo  |
-| 15  | Batissou        | Samuel         | 7K     | 75COP |
-| 16  | Georget         | Laurent        | 8K     | 35Re  |
-| 17  | Gauthier        | Julie          | 8K     | 21Di  |
-| 18  | Schneider       | Hugo           | 8K     | 56Lo  |
-| 19  | Peillard        | Etienne        | 8K     | 29Br  |
-| 20  | Fong            | Johan          | 10K    | 35Re  |
-| 21  | Barbeyron       | Cédric         | 10K    | 29Br  |
-| 22  | Rolland         | Simon          | 10K    | 29Br  |
-| 23  | Menthéour       | Camille        | 11K    | 29Co  |
-| 24  | Jullien         | Pierre         | 11K    | 29Br  |
-| 25  | Guern           | Pierre-Yves    | 12K    | 29Br  |
-| 26  | Desdames        | Nicolas        | 13K    | 29Br  |
-| 27  | Millour-Meffroy | Zeno           | 16K    | 29Br  |
-| 28  | Gaschet         | Monique        | 21K    | 29Br  |
-| 29  |                 |                |        |       |
-| 30  |                 |                |        |       |
-| 31  |                 |                |        |       |
+| 7   | Détivaud        | Pierre         | 2K     | 35Re  |
+| 8   | Eav             | Dominique      | 3K     | 56Lo  |
+| 9   | Guéguen         | Louis-Gabriel  | 3K     | 29Br  |
+| 10  | Cuello          | Kévin          | 3K     | 35Re  |
+| 11  | Doussot         | Patrice        | 4K     | 21Di  |
+| 12  | Gloaguen        | Romain         | 4K     | 29Br  |
+| 13  | Blanchard       | Victor         | 5K     | 35Re  |
+| 14  | Allais          | Esteban        | 5K     | 35Re  |
+| 15  | Pestel-Ropars   | Antoine        | 7K     | 29Br  |
+| 16  | Pean            | Louri          | 7K     | 56Lo  |
+| 17  | Batissou        | Samuel         | 7K     | 75COP |
+| 18  | Sanquer         | Laurent        | 7K     | 29Br  |
+| 19  | Georget         | Laurent        | 8K     | 35Re  |
+| 20  | Gauthier        | Julie          | 8K     | 21Di  |
+| 21  | Schneider       | Hugo           | 8K     | 56Lo  |
+| 22  | Peillard        | Etienne        | 8K     | 29Br  |
+| 23  | Fong            | Johan          | 10K    | 35Re  |
+| 24  | Barbeyron       | Cédric         | 10K    | 29Br  |
+| 25  | Rolland         | Simon          | 10K    | 29Br  |
+| 26  | Menthéour       | Camille        | 11K    | 29Co  |
+| 27  | Jullien         | Pierre         | 11K    | 29Br  |
+| 28  | Guern           | Pierre-Yves    | 12K    | 29Br  |
+| 29  | Desdames        | Nicolas        | 13K    | 29Br  |
+| 30  | Millour-Meffroy | Zeno           | 16K    | 29Br  |
+| 31  | Gaschet         | Monique        | 21K    | 29Br  |
 | 32  |                 |                |        |       |
 | 33  |                 |                |        |       |
 | 34  |                 |                |        |       |
@@ -153,4 +153,4 @@ N'hésitez pas à nous contacter pour toute question.
 | 48  |                 |                |        |       |
 {{</tables>}}
 
-Dernière mise à jour : 26/05/2024
+Dernière mise à jour : 03/06/2024
