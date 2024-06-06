@@ -103,40 +103,40 @@ N'hésitez pas à nous contacter pour toute question.
 {{<tables "table table-bordered table-sm table-striped">}}
 |     | Nom             | Prénom         | Niveau | Club  |
 | --- | --------------- | -------------- | ------ | ----- |
-| 1   | Le Hir          | Matthieu       | 2D     | 29Br  |
-| 2   | Brazilier       | Manuel         | 1D     | 00St  |
-| 3   | Gueguen         | Pierre-Antoine | 1K     | 29Br  |
-| 4   | Menard          | Benoit         | 1K     | 35Re  |
-| 5   | A               | Julien         | 1K     | *     |
-| 6   | Boé             | Alain          | 1K     | 35Re  |
-| 7   | Détivaud        | Pierre         | 2K     | 35Re  |
-| 8   | Eav             | Dominique      | 3K     | 56Lo  |
-| 9   | Guéguen         | Louis-Gabriel  | 3K     | 29Br  |
-| 10  | Cuello          | Kévin          | 3K     | 35Re  |
-| 11  | Doussot         | Patrice        | 4K     | 21Di  |
-| 12  | Gloaguen        | Romain         | 4K     | 29Br  |
-| 13  | Blanchard       | Victor         | 5K     | 35Re  |
-| 14  | Allais          | Esteban        | 5K     | 35Re  |
-| 15  | Pestel-Ropars   | Antoine        | 7K     | 29Br  |
-| 16  | Pean            | Louri          | 7K     | 56Lo  |
-| 17  | Batissou        | Samuel         | 7K     | 75COP |
-| 18  | Sanquer         | Laurent        | 7K     | 29Br  |
-| 19  | Georget         | Laurent        | 8K     | 35Re  |
-| 20  | Gauthier        | Julie          | 8K     | 21Di  |
-| 21  | Schneider       | Hugo           | 8K     | 56Lo  |
-| 22  | Peillard        | Etienne        | 8K     | 29Br  |
-| 23  | Fong            | Johan          | 10K    | 35Re  |
-| 24  | Barbeyron       | Cédric         | 10K    | 29Br  |
-| 25  | Rolland         | Simon          | 10K    | 29Br  |
-| 26  | Menthéour       | Camille        | 11K    | 29Co  |
-| 27  | Jullien         | Pierre         | 11K    | 29Br  |
-| 28  | Guern           | Pierre-Yves    | 12K    | 29Br  |
-| 29  | Desdames        | Nicolas        | 13K    | 29Br  |
-| 30  | Millour-Meffroy | Zeno           | 16K    | 29Br  |
-| 31  | Gaschet         | Monique        | 21K    | 29Br  |
-| 32  |                 |                |        |       |
-| 33  |                 |                |        |       |
-| 34  |                 |                |        |       |
+| 1   | Lemoine         | Théo           | 4D     | 49An  |
+| 2   | Vannier         | Rémi           | 3D     | 35Re  |
+| 3   | Le Hir          | Matthieu       | 2D     | 29Br  |
+| 4   | Brazilier       | Manuel         | 1D     | 00St  |
+| 5   | Gueguen         | Pierre-Antoine | 1K     | 29Br  |
+| 6   | Menard          | Benoit         | 1K     | 35Re  |
+| 7   | A               | Julien         | 1K     | *     |
+| 8   | Boé             | Alain          | 1K     | 35Re  |
+| 9   | Détivaud        | Pierre         | 2K     | 35Re  |
+| 10  | Eav             | Dominique      | 3K     | 56Lo  |
+| 11  | Guéguen         | Louis-Gabriel  | 3K     | 29Br  |
+| 12  | Cuello          | Kévin          | 3K     | 35Re  |
+| 13  | Doussot         | Patrice        | 4K     | 21Di  |
+| 14  | Gloaguen        | Romain         | 4K     | 29Br  |
+| 15  | Blanchard       | Victor         | 5K     | 35Re  |
+| 16  | Allais          | Esteban        | 5K     | 35Re  |
+| 17  | Pestel-Ropars   | Antoine        | 7K     | 29Br  |
+| 18  | Pean            | Louri          | 7K     | 56Lo  |
+| 19  | Batissou        | Samuel         | 7K     | 75COP |
+| 20  | Sanquer         | Laurent        | 7K     | 29Br  |
+| 21  | Georget         | Laurent        | 8K     | 35Re  |
+| 22  | Gauthier        | Julie          | 8K     | 21Di  |
+| 23  | Schneider       | Hugo           | 8K     | 56Lo  |
+| 24  | Peillard        | Etienne        | 8K     | 29Br  |
+| 25  | Fong            | Johan          | 10K    | 35Re  |
+| 26  | Barbeyron       | Cédric         | 10K    | 29Br  |
+| 27  | Rolland         | Simon          | 10K    | 29Br  |
+| 28  | Menthéour       | Camille        | 11K    | 29Co  |
+| 29  | Jullien         | Pierre         | 11K    | 29Br  |
+| 30  | Guern           | Pierre-Yves    | 12K    | 29Br  |
+| 31  | Desdames        | Nicolas        | 13K    | 29Br  |
+| 32  | Livenais        | Florentin      | 15K    | 49An  |
+| 33  | Millour-Meffroy | Zeno           | 16K    | 29Br  |
+| 34  | Gaschet         | Monique        | 21K    | 29Br  |
 | 35  |                 |                |        |       |
 | 36  |                 |                |        |       |
 | 37  |                 |                |        |       |
@@ -153,4 +153,4 @@ N'hésitez pas à nous contacter pour toute question.
 | 48  |                 |                |        |       |
 {{</tables>}}
 
-Dernière mise à jour : 03/06/2024
+Dernière mise à jour : 06/06/2024
