@@ -57,7 +57,7 @@ Il est possible d'arriver dès le vendredi soir, pour profiter du lieu pour le w
 
 {{<tables "table table-bordered table-sm">}}
 |                                                                         | Normal   | Réduit   | Acc.     |
-| ----------------------------------------------------------------------- | -------- | -------- | -------- |
+|-------------------------------------------------------------------------|----------|----------|----------|
 | **Formule samedi-dimanche <br> (tournoi, 1 nuit, 2 repas + p’tit déj)** | **72 €** | **52 €** | **48 €** |
 {{</tables>}}
 
@@ -67,7 +67,7 @@ Il est possible d'arriver dès le vendredi soir, pour profiter du lieu pour le w
 ### A la carte
 {{<tables "table table-bordered table-sm">}}
 |                         | Normal | Réduit | Accompagnant |
-| ----------------------- | ------ | ------ | ------------ |
+|-------------------------|--------|--------|--------------|
 | Inscription tournoi     | 30 €   | 5 €    | -            |
 | 1 repas                 | 11 €   | 11 €   | 11€          |
 | Nuit samedi + p'tit déj | 38 €   | 38 €   | 38 €         |
@@ -101,56 +101,56 @@ N'hésitez pas à nous contacter pour toute question.
 # Liste des pré-inscrits
 
 {{<tables "table table-bordered table-sm table-striped">}}
-|     | Nom             | Prénom         | Niveau | Club  |
-| --- | --------------- | -------------- | ------ | ----- |
-| 1   | Lemoine         | Théo           | 4D     | 49An  |
-| 2   | Vannier         | Rémi           | 3D     | 35Re  |
-| 3   | Le Hir          | Matthieu       | 2D     | 29Br  |
-| 4   | Brazilier       | Manuel         | 1D     | 00St  |
-| 5   | Gueguen         | Pierre-Antoine | 1K     | 29Br  |
-| 6   | Menard          | Benoit         | 1K     | 35Re  |
-| 7   | A               | Julien         | 1K     | *     |
-| 8   | Boé             | Alain          | 1K     | 35Re  |
-| 9   | Détivaud        | Pierre         | 2K     | 35Re  |
-| 10  | Eav             | Dominique      | 3K     | 56Lo  |
-| 11  | Guéguen         | Louis-Gabriel  | 3K     | 29Br  |
-| 12  | Cuello          | Kévin          | 3K     | 35Re  |
-| 13  | Doussot         | Patrice        | 4K     | 21Di  |
-| 14  | Gloaguen        | Romain         | 4K     | 29Br  |
-| 15  | Blanchard       | Victor         | 5K     | 35Re  |
-| 16  | Allais          | Esteban        | 5K     | 35Re  |
-| 17  | Pestel-Ropars   | Antoine        | 7K     | 29Br  |
-| 18  | Pean            | Louri          | 7K     | 56Lo  |
-| 19  | Batissou        | Samuel         | 7K     | 75COP |
-| 20  | Sanquer         | Laurent        | 7K     | 29Br  |
-| 21  | Georget         | Laurent        | 8K     | 35Re  |
-| 22  | Gauthier        | Julie          | 8K     | 21Di  |
-| 23  | Schneider       | Hugo           | 8K     | 56Lo  |
-| 24  | Peillard        | Etienne        | 8K     | 29Br  |
-| 25  | Fong            | Johan          | 10K    | 35Re  |
-| 26  | Barbeyron       | Cédric         | 10K    | 29Br  |
-| 27  | Rolland         | Simon          | 10K    | 29Br  |
-| 28  | Menthéour       | Camille        | 11K    | 29Co  |
-| 29  | Jullien         | Pierre         | 11K    | 29Br  |
-| 30  | Guern           | Pierre-Yves    | 12K    | 29Br  |
-| 31  | Desdames        | Nicolas        | 13K    | 29Br  |
-| 32  | Livenais        | Florentin      | 15K    | 49An  |
-| 33  | Millour-Meffroy | Zeno           | 16K    | 29Br  |
-| 34  | Gaschet         | Monique        | 21K    | 29Br  |
-| 35  |                 |                |        |       |
-| 36  |                 |                |        |       |
-| 37  |                 |                |        |       |
-| 38  |                 |                |        |       |
-| 39  |                 |                |        |       |
-| 40  |                 |                |        |       |
-| 41  |                 |                |        |       |
-| 42  |                 |                |        |       |
-| 43  |                 |                |        |       |
-| 44  |                 |                |        |       |
-| 45  |                 |                |        |       |
-| 46  |                 |                |        |       |
-| 47  |                 |                |        |       |
-| 48  |                 |                |        |       |
+|    | Nom             | Prénom         | Niveau | Club  |
+|----|-----------------|----------------|--------|-------|
+| 1  | Mizessyn        | François       | 4D     | 92An  |
+| 2  | Lemoine         | Théo           | 4D     | 49An  |
+| 3  | Vannier         | Rémi           | 3D     | 35Re  |
+| 4  | Le Hir          | Matthieu       | 2D     | 29Br  |
+| 5  | Brazilier       | Manuel         | 1D     | 00St  |
+| 6  | Gueguen         | Pierre-Antoine | 1K     | 29Br  |
+| 7  | Menard          | Benoit         | 1K     | 35Re  |
+| 8  | Angeli          | Julien         | 1K     | *     |
+| 9  | Boé             | Alain          | 1K     | 35Re  |
+| 10 | Détivaud        | Pierre         | 2K     | 35Re  |
+| 11 | Eav             | Dominique      | 3K     | 56Lo  |
+| 12 | Gueguen         | Louis-Gabriel  | 3K     | 29Br  |
+| 13 | Cuello          | Kévin          | 3K     | 35Re  |
+| 14 | Doussot         | Patrice        | 4K     | 21Di  |
+| 15 | Gloaguen        | Romain         | 4K     | 29Br  |
+| 16 | Blanchard       | Victor         | 5K     | 35Re  |
+| 17 | Allais          | Esteban        | 5K     | 35Re  |
+| 18 | Bendaoud        | Loïc           | 7K     | 49An  |
+| 19 | Pestel-Ropars   | Antoine        | 7K     | 29Br  |
+| 20 | Pean            | Louri          | 7K     | 56Lo  |
+| 21 | Batissou        | Samuel         | 7K     | 75COP |
+| 22 | Sanquer         | Laurent        | 7K     | 29Br  |
+| 23 | Georget         | Laurent        | 8K     | 35Re  |
+| 24 | Gauthier        | Julie          | 8K     | 21Di  |
+| 25 | Schneider       | Hugo           | 8K     | 56Lo  |
+| 26 | Peillard        | Etienne        | 8K     | 29Br  |
+| 27 | Merkiled        | Yann           | 10K    | 72Ma  |
+| 28 | Fong            | Johan          | 10K    | 35Re  |
+| 29 | Barbeyron       | Cédric         | 10K    | 29Br  |
+| 30 | Rolland         | Simon          | 10K    | 29Br  |
+| 31 | Menthéour       | Camille        | 11K    | 29Co  |
+| 32 | Jullien         | Pierre         | 11K    | 29Br  |
+| 33 | Guern           | Pierre-Yves    | 12K    | 29Br  |
+| 34 | Desdames        | Nicolas        | 13K    | 29Br  |
+| 35 | Livenais        | Florentin      | 15K    | 49An  |
+| 36 | Millour-Meffroy | Zeno           | 16K    | 29Br  |
+| 37 | Gaschet         | Monique        | 20K    | 29Br  |
+| 38 | Fourny          | Mathieu        | 20K?   | 44Na  |
+| 39 |                 |                |        |       |
+| 40 |                 |                |        |       |
+| 41 |                 |                |        |       |
+| 42 |                 |                |        |       |
+| 43 |                 |                |        |       |
+| 44 |                 |                |        |       |
+| 45 |                 |                |        |       |
+| 46 |                 |                |        |       |
+| 47 |                 |                |        |       |
+| 48 |                 |                |        |       |
 {{</tables>}}
 
-Dernière mise à jour : 06/06/2024
+Dernière mise à jour : 12/06/2024
