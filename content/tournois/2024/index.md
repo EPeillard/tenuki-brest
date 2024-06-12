@@ -141,7 +141,7 @@ N'hésitez pas à nous contacter pour toute question.
 | 36 | Millour-Meffroy | Zeno           | 16K    | 29Br  |
 | 37 | Gaschet         | Monique        | 20K    | 29Br  |
 | 38 | Fourny          | Mathieu        | 20K?   | 44Na  |
-| 39 |                 |                |        |       |
+| 39 | Deveaux         | Louisiane      | 20K?   | 56Lo  |
 | 40 |                 |                |        |       |
 | 41 |                 |                |        |       |
 | 42 |                 |                |        |       |
