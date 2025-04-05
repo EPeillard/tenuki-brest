@@ -36,8 +36,8 @@ languages:
 
 menu:
     main:
-        - name : Tournoi 2024
-          url : '/tournois/2024'
+        - name : Tournoi 2025
+          url : '/tournois/2025'
           weight : 10
         - name: '|'
           weight: 11
