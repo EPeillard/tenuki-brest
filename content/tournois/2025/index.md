@@ -1,3 +1,4 @@
+---
 title: "Tournoi de Brest 2025"
 draft: false
 
