@@ -96,13 +96,32 @@ N'hésitez pas à nous contacter pour toute question.
 # Liste des pré-inscrits
 
 {{<tables "table table-bordered table-sm table-striped">}}
-|    | Nom    | Prénom  | Niveau | Club  |
-|----|--------|---------|--------|-------|
-| 1  |        |         |        |       |
-| 2  |        |         |        |       |
-| 3  |        |         |        |       |
-| …  |        |         |        |       |
-| 49 |        |         |        |       |
+| #  | Nom              | Prénom         | Niveau | Club  |
+|----|------------------|----------------|--------|-------|
+| 1  | Le Hir           | Matthieu       | 2D     | 29Br  |
+| 2  | Brazilier        | Manuel         | 1D     | 00St  |
+| 3  | Gueguen          | Pierre-Antoine | 1K     | 29Br  |
+| 4  | Minjina          | Dragos         | 3K     | -     |
+| 5  | Doussot          | Patrice        | 4K     | 21Di  |
+| 6  | Gloaguen         | Romain         | 4K     | 29Br  |
+| 7  | Batissou         | Samuel         | 5K     | 75Op  |
+| 8  | Pestel-Ropars    | Antoine        | 7K     | 29Br  |
+| 9  | Sanquer          | Laurent        | 7K     | 29Br  |
+| 10 | Lebouc           | Arnaud         | 7K     | 44Na  |
+| 11 | Georget          | Laurent        | 7K     | 35Re  |
+| 12 | Gauthier         | Julie          | 8K     | 21Di  |
+| 13 | Peillard         | Etienne        | 8K     | 29Br  |
+| 14 | Barbeyron        | Cédric         | 10K    | 29Br  |
+| 15 | Jullien          | Pierre         | 11K    | 29Br  |
+| 16 | Guern            | Pierre-Yves    | 12K    | 29Br  |
+| 17 | Desdames         | Nicolas        | 13K    | 29Br  |
+| 18 | Desdames         | Nicolas        | 13K    | 29Br  |
+| 19 | Millour-Meffroy  | Zeno           | 16K    | 29Br  |
+| 20 | Levacher         | Léo            | 21K    | -     |
+| 21 | Gaschet          | Monique        | 27K    | 29Br  |
+| …  | …                | …              | …      | …     |
+| 49 |                  |                |        |       |
+
 {{</tables>}}
 
 Dernière mise à jour : 5/04/2025
