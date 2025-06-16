@@ -124,4 +124,4 @@ N'hésitez pas à nous contacter pour toute question.
 
 {{</tables>}}
 
-Dernière mise à jour : 5/04/2025
+Dernière mise à jour : 17/06/2025
