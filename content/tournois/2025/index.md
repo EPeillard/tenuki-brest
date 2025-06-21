@@ -98,30 +98,35 @@ N'hésitez pas à nous contacter pour toute question.
 {{<tables "table table-bordered table-sm table-striped">}}
 | #  | Nom              | Prénom         | Niveau | Club  |
 |----|------------------|----------------|--------|-------|
-| 1  | Le Hir           | Matthieu       | 2D     | 29Br  |
-| 2  | Brazilier        | Manuel         | 1D     | 00St  |
-| 3  | Gueguen          | Pierre-Antoine | 1K     | 29Br  |
-| 4  | Minjina          | Dragos         | 3K     | -     |
-| 5  | Doussot          | Patrice        | 4K     | 21Di  |
-| 6  | Gloaguen         | Romain         | 4K     | 29Br  |
-| 7  | Batissou         | Samuel         | 5K     | 75Op  |
-| 8  | Pestel-Ropars    | Antoine        | 7K     | 29Br  |
-| 9  | Sanquer          | Laurent        | 7K     | 29Br  |
+| #  | Nom              | Prénom         | Niveau | Club  |
+|----|------------------|----------------|--------|-------|
+| 1  | Lemoine          | Théo           | 3D     | 49An  |
+| 2  | Le Hir           | Matthieu       | 2D     | 29Br  |
+| 3  | Digard           | Martin         | 2D     | 29Br  |
+| 4  | Gueguen          | Pierre-Antoine | 1K     | 29Br  |
+| 5  | Lhez             | Gregory        | 2K     | 29Br  |
+| 6  | Minjina          | Dragos         | 3K     | 29Br  |
+| 7  | Guéguen          | Louis-Gabriel  | 3K     | 29Br  |
+| 8  | Doussot          | Patrice        | 4K     | 21Di  |
+| 9  | Batissou         | Samuel         | 5K     | 75Op  |
 | 10 | Lebouc           | Arnaud         | 7K     | 44Na  |
-| 11 | Georget          | Laurent        | 7K     | 35Re  |
-| 12 | Gauthier         | Julie          | 8K     | 21Di  |
-| 13 | Peillard         | Etienne        | 8K     | 29Br  |
-| 14 | Barbeyron        | Cédric         | 10K    | 29Br  |
-| 15 | Jullien          | Pierre         | 11K    | 29Br  |
-| 16 | Guern            | Pierre-Yves    | 12K    | 29Br  |
-| 17 | Desdames         | Nicolas        | 13K    | 29Br  |
-| 18 | Desdames         | Nicolas        | 13K    | 29Br  |
-| 19 | Millour-Meffroy  | Zeno           | 16K    | 29Br  |
-| 20 | Levacher         | Léo            | 21K    | -     |
-| 21 | Gaschet          | Monique        | 27K    | 29Br  |
+| 11 | Pestel-Ropars    | Antoine        | 7K     | 29Br  |
+| 12 | Georget          | Laurent        | 7K     | 35Re  |
+| 13 | Gauthier         | Julie          | 7K     | 21Di  |
+| 14 | Peillard         | Étienne        | 8K     | 29Br  |
+| 15 | Desdames         | Nicolas        | 9K     | 29Br  |
+| 16 | Barbeyron        | Cédric         | 11K    | 29Br  |
+| 17 | Guern            | Pierre-Yves    | 11K    | 29Br  |
+| 18 | Jullien          | Pierre         | 11K    | 29Br  |
+| 19 | Millour-Meffroy  | Zeno           | 15K    | 29Br  |
+| 20 | Marrec           | Gwendal        | 15K    | 29Br  |
+| 21 | Gaschet          | Monique        | 18K    | 29Br  |
+| 22 | Taruffi          | Keryan         | 20K    | 29Br  |
+| 23 | Levacher         | Léo            | 21K    | 29Br  |
+| 24 |                  | Hugo           | 25K    | 29Br  |
 | …  | …                | …              | …      | …     |
 | 49 |                  |                |        |       |
 
 {{</tables>}}
 
-Dernière mise à jour : 17/06/2025
+Dernière mise à jour : 21/06/2025
