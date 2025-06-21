@@ -98,8 +98,6 @@ N'hésitez pas à nous contacter pour toute question.
 {{<tables "table table-bordered table-sm table-striped">}}
 | #  | Nom              | Prénom         | Niveau | Club  |
 |----|------------------|----------------|--------|-------|
-| #  | Nom              | Prénom         | Niveau | Club  |
-|----|------------------|----------------|--------|-------|
 | 1  | Lemoine          | Théo           | 3D     | 49An  |
 | 2  | Le Hir           | Matthieu       | 2D     | 29Br  |
 | 3  | Digard           | Martin         | 2D     | 29Br  |
