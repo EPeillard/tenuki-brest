@@ -102,27 +102,32 @@ N'hésitez pas à nous contacter pour toute question.
 | 2  | Kunne           | Stéphan     | 4D     | 35Re |
 | 3  | Lemoine         | Théo        | 3D     | 49An |
 | 4  | Le Hir          | Matthieu    | 2D     | 29Br |
-| 5  | Minjina         | Dragos      | 3K     | 29Br |
-| 6  | Doussot         | Patrice     | 4K     | 21Di |
-| 7  | Batissou        | Samuel      | 5K     | 75Op |
-| 8  | Jiang           | Jialong     | 6K     | 00St |
-| 9  | Lebouc          | Arnaud      | 7K     | 44Na |
-| 10 | Fong            | Johan       | 7K     | 35Re |
-| 11 | Pestel-Ropars   | Antoine     | 7K     | 29Br |
-| 12 | Georget         | Laurent     | 7K     | 35Re |
-| 13 | Gauthier        | Julie       | 7K     | 21Di |
-| 14 | Peillard        | Etienne     | 8K     | 29Br |
-| 15 | Barbeyron       | Cédric      | 11K    | 29Br |
-| 16 | Guern           | Pierre-Yves | 11K    | 29Br |
-| 17 | Millour-Meffroy | Zeno        | 15K    | 29Br |
-| 18 | Marrec          | Gwendal     | 15K    | 29Br |
-| 19 | Gaschet         | Monique     | 18K    | 29Br |
-| 20 | Taruffi         | Keryan      | 20K    | 29Br |
-| 21 | Levacher        | Léo         | 21K    | 29Br |
-| 22 |                 | Hugo        | 25K    | 29Br |
-| …  | …               | …           | …      | …    |
+| 5  | Digard          | Martin      | 2D     | 29Br |
+| 6  | Vuichard        | Gael        | 1K     | 35Re |
+| 7  | Minjina         | Dragos      | 3K     | 29Br |
+| 8  | Doussot         | Patrice     | 4K     | 21Di |
+| 9  | Batissou        | Samuel      | 5K     | 75Op |
+| 10 | Jiang           | Jialong     | 6K     | 00St |
+| 11 | Lebouc          | Arnaud      | 7K     | 44Na |
+| 12 | Fong            | Johan       | 7K     | 35Re |
+| 13 | Pestel-Ropars   | Antoine     | 7K     | 29Br |
+| 14 | Georget         | Laurent     | 7K     | 35Re |
+| 15 | Gauthier        | Julie       | 7K     | 21Di |
+| 16 | Peillard        | Etienne     | 8K     | 29Br |
+| 17 | Desdames        | Nicolas     | 9K     | 29Br |
+| 18 | Rolland         | Simon       | 10K    | 00St |
+| 19 | Courcier        | Clément     | 10K    | 35Re |
+| 20 | Barbeyron       | Cédric      | 11K    | 29Br |
+| 21 | Guern           | Pierre-Yves | 11K    | 29Br |
+| 22 | Millour-Meffroy | Zeno        | 15K    | 29Br |
+| 23 | Marrec          | Gwendal     | 15K    | 29Br |
+| 24 | Gaschet         | Monique     | 18K    | 29Br |
+| 25 | Taruffi         | Keryan      | 20K    | 29Br |
+| 26 | Levacher        | Léo         | 21K    | 29Br |
+| 27 |                 | Hugo        | 25K    | 29Br |
+| 28 | ...             | ...         | ...    | ...  |
 | 49 |                 |             |        |      |
 
 {{</tables>}}
 
-Dernière mise à jour : 30/06/2025
+Dernière mise à jour : 02/07/2025
