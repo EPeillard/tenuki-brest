@@ -34,7 +34,7 @@ Possibilité aussi de venir par le train (prévoir 30 minutes de trajet depuis l
 
 Il est possible d'arriver dès le vendredi soir, pour profiter du lieu pour le week-end (baignade, balade, rando kayak).
 
-## Samedi 5 juillet
+## Samedi 20 juin
 
 - 11h30 - Accueil et pique-nique offert pour les voyageurs  
 - 13h00 - Clôture des inscriptions  
@@ -44,7 +44,7 @@ Il est possible d'arriver dès le vendredi soir, pour profiter du lieu pour le w
 - 20h30 - 3ème ronde  
 - 22h30 - Soirée libre
 
-## Dimanche 6 juillet
+## Dimanche 21 juin
 
 - 08h30 - P'tit Déj'  
 - 09h30 - 4ème ronde  
