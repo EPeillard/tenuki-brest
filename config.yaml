@@ -21,6 +21,8 @@ params:
   ananke_socials:
     - name : "facebook"
       url : "https://www.facebook.com/TenukiClubdeGo"
+    - name : "instagram"
+      url : "https://www.instagram.com/tenuki_go_brest/"
     - name : "discord"
       url : "https://www.discord.gg/KxZfuXYU"
     - name : "ffg"
@@ -47,6 +49,8 @@ menu:
         - name : "Nos rendez-vous"
           url : "/rendez-vous"
           weight : 30
+        - name: '| '
+          weight: 31
 
 module:
   mounts:

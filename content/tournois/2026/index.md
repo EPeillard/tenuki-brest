@@ -80,7 +80,7 @@ Pour vous inscrire, contactez le club, en précisant le jour d'arrivée et quell
 
 Niveau d'inscription : obligatoirement celui de l'échelle FFG, ou bien en passant par la commission de ré-évaluation FFG, 15 jours minimum avant le tournoi. Si vous n'avez pas de licence à jour, elle sera faite sur place avant le tournoi. 
 
-- Mail : brest.tenuki@hotmail.fr  
+- Mail : 29Br@jeudego.org
 - Tél : 06.81.71.97.29  
 
 Vous pouvez également vous inscrire et régler directement en ligne en cliquant sur le bouton juste là.  

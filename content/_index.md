@@ -13,16 +13,38 @@ image:
 Bienvenue sur le site de **Tenuki**, le club de Go de Brest.  
 Que vous soyez débutant curieux ou joueur confirmé, rejoignez-nous autour du goban !
 
-👉 **[Inscriptions ouvertes pour le tournoi 2025 – 5 & 6 juillet !](/tournois/2025/)**  
+👉 **[Inscriptions ouvertes pour le tournoi 2026 – 20-21 juin !](/tournois/2026/)**  
 
 📅 Venez faire une partie ou découvrir le jeu lors de nos [rendez-vous hebdomadaires](/rendez-vous/).  
 Ambiance conviviale garantie !
 
 <br>
 
+*N'hésitez pas à nous contacter pour toute question ou pour rejoindre le club*
+
+<a href="mailto:29Br@jeudego.org"
+   style="display: inline-block; padding: 10px 16px; border-radius: 8px;
+          background: linear-gradient(45deg, #6c757d, #495057);
+          color: white; font-weight: 600; text-decoration: none;">
+  ✉️ Email
+</a>
+<a href="https://www.instagram.com/tenuki_go_brest" target="_blank" rel="noopener"
+   style="display: inline-block; padding: 10px 16px; border-radius: 8px;
+          background: linear-gradient(45deg, #f58529, #dd2a7b, #8134af, #515bd4);
+          color: white; font-weight: 600; text-decoration: none;">
+  📸 Instagram
+</a>
+<a href="https://www.facebook.com/TenukiClubdeGo" target="_blank" rel="noopener"
+   style="display: inline-block; padding: 10px 16px; border-radius: 10px;
+          background: linear-gradient(45deg, #1877f2, #3b5998);
+          color: white; font-weight: 600; text-decoration: none;
+          box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+  👍 Facebook
+</a>
+
 ---
 
-### 📰 L’actu du club sur Facebook
+### 📰 L’actu du club sur les réseaux
 
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v15.0" nonce="Qwx3NkpA"></script>
@@ -32,3 +54,4 @@ Ambiance conviviale garantie !
     <a href="https://www.facebook.com/TenukiClubdeGo">Tenuki - Club de Go (Brest)</a>
   </blockquote>
 </div>
+
