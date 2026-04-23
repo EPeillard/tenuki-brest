@@ -111,17 +111,18 @@ N'hésitez pas à nous contacter pour toute question.
 | 8  | Georget       | Laurent        | 6K     | 35Re |
 | 9  | Gauthier      | Julie          | 7K     | 21Di |
 | 10 | Pestel-Ropars | Antoine        | 7K     | 29Br |
-| 11 | Peillard      | Etienne        | 8K     | 29Br |
-| 12 | Desdames      | Nicolas        | 9K     | 29Br |
-| 13 | Guern         | Pierre-Yves    | 11K    | 29Br |
-| 14 | Jullien       | Pierre         | 12K    | 29Br |
-| 15 | Marrec        | Gwendal        | 14K    | 29Br |
-| 16 | Taruffi       | Keryan         | 17K    | 29Br |
-| 17 | Bouteau       | Aurélien       | 17K    | 29Br |
-| 18 | Gaschet       | Monique        | 18K    | 29Br |
-| 19 | ...           | ...            | ...    | ...  |
+| 11 | Schneider     | Hugo           | 7K     | 56Lo |
+| 12 | Peillard      | Etienne        | 8K     | 29Br |
+| 13 | Desdames      | Nicolas        | 9K     | 29Br |
+| 14 | Guern         | Pierre-Yves    | 11K    | 29Br |
+| 15 | Jullien       | Pierre         | 12K    | 29Br |
+| 16 | Marrec        | Gwendal        | 14K    | 29Br |
+| 17 | Taruffi       | Keryan         | 17K    | 29Br |
+| 18 | Bouteau       | Aurélien       | 17K    | 29Br |
+| 19 | Gaschet       | Monique        | 18K    | 29Br |
+| 20 | ...           | ...            | ...    | ...  |
 | 49 |               |                |        |      |
 
 {{</tables>}}
 
-Dernière mise à jour : 21/04/2026
+Dernière mise à jour : 23/04/2026
